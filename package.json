@@ -1,7 +1,7 @@
 {
-  "name": "Blog-Mastery",
+  "name": "Utility-Box-Website",
   "version": "1.0.0",
-  "description": "A simple website for a pet grooming business.",
+  "description": "A website for my utility box GUI application.",
   "main": "index.js",
   "scripts": {
     "sass:build": "sass --no-source-map scss:css",
